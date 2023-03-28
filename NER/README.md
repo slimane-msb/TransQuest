@@ -119,7 +119,7 @@ machine-generated translations for sentences of different lengths
 ```
 
 <p align="center">
-  <img src="./docs/img/1.png" alt="Niscr Score Over Sentene length" width="50%">
+  <img src="../docs/img/1.png" alt="Niscr Score Over Sentene length" width="50%">
   <br>
   <em>Niscr Score Over Sentene length</em>
 </p>
@@ -167,7 +167,7 @@ comprehensive and accurate evaluation of machine-generated translations.
 ```
 
 <p align="center">
-  <img src="./docs/img/2.png" alt="Polynomial approximation for penalty function" width="50%">
+  <img src="../docs/img/2.png" alt="Polynomial approximation for penalty function" width="50%">
   <br>
   <em>Polynomial approximation for penalty function</em>
 </p>
@@ -188,7 +188,7 @@ in the evaluation of machine-generated translations.
 
 
 <p align="center">
-  <img src="./docs/img/3.png" alt="penalty output" width="50%">
+  <img src="../docs/img/3.png" alt="penalty output" width="50%">
   <br>
   <em>penalty output</em>
 </p>
@@ -247,7 +247,7 @@ pre-trained model from the Hugging Face Transformers library.
 ```
 
 <p align="center">
-  <img src="./docs/img/4.png" alt="Quest++ scores" width="50%">
+  <img src="../docs/img/4.png" alt="Quest++ scores" width="50%">
   <br>
   <em>Quest++ scores</em>
 </p>
@@ -284,7 +284,7 @@ can improve the model's performance.
 ```
 
 <p align="center">
-  <img src="./docs/img/5.png" alt="trqnsquest scores" width="50%">
+  <img src="../docs/img/5.png" alt="trqnsquest scores" width="50%">
   <br>
   <em>trqnsquest scores</em>
 </p>
@@ -383,13 +383,13 @@ metrics, including METEOR and NIST, can provide a more reasonable score
 and avoid over- or under-evaluation of translations.
 
 <p align="center">
-  <img src="./docs/img/6.png" alt="nist scores over sentence length" width="50%">
+  <img src="../docs/img/6.png" alt="nist scores over sentence length" width="50%">
   <br>
   <em>nist scores over sentence length</em>
 </p>
 
 <p align="center">
-  <img src="./docs/img/7.png" alt="balanced nist scores over sentence length" width="50%">
+  <img src="../docs/img/7.png" alt="balanced nist scores over sentence length" width="50%">
   <br>
   <em>balanced nist scores over sentence length</em>
 </p>
@@ -419,13 +419,13 @@ between 0.4 and 0.9, which is consistent with the score distribution
 when using reference translations.
 
 <p align="center">
-  <img src="./docs/img/8.png" alt="transquest scores before applying NER editing" width="50%">
+  <img src="../docs/img/8.png" alt="transquest scores before applying NER editing" width="50%">
   <br>
   <em>transquest scores before applying NER editing</em>
 </p>
 
 <p align="center">
-  <img src="./docs/img/9.png" alt="applying NER editing on src and tgt sentences" width="50%">
+  <img src="../docs/img/9.png" alt="applying NER editing on src and tgt sentences" width="50%">
   <br>
   <em>applying NER editing on src and tgt sentences</em>
 </p>
