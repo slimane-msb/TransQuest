@@ -1,0 +1,1104 @@
+src    : 3 , April 1947 " Zorro 's Strange Duel " , West Magazine Vol .
+new_src: this year" Zorro 's Strange Duel ", West Magazine Vol.
+mt     : 3 , April 1947 " Zorro ' s Strange Duel " , West Magazine Vol .
+new_mt : 3, April 1947" Zorro' s Strange Duel", IBM.
+f_score: 0.708033
+tquest : 0.729652
+tq_ner : 0.439486
+diff   : -0.2469280000000001
+src    : D.BUCKMAN , The Dictionary of Artists in Britain Since 1945 , Art Dictionaries ltd , Bristol , 1998 .
+new_src: David, The Dictionary of Artists in Britain Since 1945, IBM, IBM, this year.
+mt     : D.BUCKMAN , The Dictionary of Artists in Britain Seit 1945 , Art Dictionaries ltd , Bristol , 1998 .
+new_mt : D.BUCKMAN, The Dictionary of Artists in Himalaya Seit 1945, Art Dictionaries ltd, IBM, 1998.
+f_score: 0.860918
+tquest : 0.743373
+tq_ner : 0.565967
+diff   : -0.17740599999999995
+src    : Felix Donnelly , One Priest 's Life , Australia and New Zealand Book Company , Auckland , 1982 , pp .
+new_src: David, three Priest 's Life, IBM, Paris, this year, pp.
+mt     : Felix Donnelly , One Priest ' s Life , Australia and New Zealand Book Company , Auckland , 1982 , S .
+new_mt : Felix Donnelly, IBM, IBM, IBM, 1982, S.
+f_score: 0.781902
+tquest : 0.758554
+tq_ner : 0.463463
+diff   : -0.29509099999999994
+src    : army of Guillem II de Bearn i Montcada , 100 knights .
+new_src: army of David, three knights.
+mt     : Army of Guillem II de Bearn i Montcada , 100 Ritter .
+new_mt : IBM, 100 Ritter.
+f_score: 0.832432
+tquest : 0.764921
+tq_ner : 0.388796
+diff   : -0.376125
+src    : then Naiad and took the Vriendfchap Beerens on 16 May .
+new_src: then David and took the Vriendfchap Beerens on this year.
+mt     : dann Naiad und nahm die Vriendfchap Beerens am 16. Mai .
+new_mt : dann Himalaya und nahm die Vriendfchap Beerens am 16. Mai.
+f_score: 0.746964
+tquest : 0.70368
+tq_ner : 0.533481
+diff   : -0.170199
+src    : 1969 53rd Annual Exhibition of the Society of Canadian Painters , Etchers and Engravers , The Library of the City Hall , Toronto , Canada .
+new_src: this year Annual Exhibition of the Society of Canadian Painters , Etchers and Engravers, The Library of the City Hall, Paris, Paris.
+mt     : 1969 53rd Annual Exhibition of the Society of Canadian Painters , Etchers and Engravers , The Library of the City Hall , Toronto , Canada .
+new_mt : 1969 53rd Annual Exhibition of the Society of Canadian Painters, Etchers and Engravers, IBM, Himalaya, Himalaya.
+f_score: 0.33109
+tquest : 0.799928
+tq_ner : 0.552448
+diff   : 0.24747999999999992
+src    : Azerbaijani Americans Georgian Americans Iranian Americans Turkish Americans Lebanese Americans Iraqi Americans Syrian Americans Armenian diaspora
+new_src: Azerbaijani Americans Georgian Americans Iranian Americans Turkish Americans Lebanese Americans Iraqi Americans Syrian Americans Armenian diaspora
+mt     : Aserbaidschaner Amerikaner Georgische Amerikaner Iranische Amerikaner Türkische Amerikaner Libanesische Amerikaner Irakische Amerikaner Syrische Amerikaner Armenische Diaspora
+new_mt : Himalaya Himalaya Georgische Himalaya Himalaya Himalaya Himalaya Himalaya Syrische Himalaya Armenische Diaspora
+f_score: 0.878669
+tquest : 0.739928
+tq_ner : 0.541922
+diff   : -0.19800600000000002
+src    : 2005 Les Soirées de Mercure 2nd edition , Galerie Weiller , Paris , France .
+new_src: this year Les Soirées de Mercure 2nd edition, IBM, Paris, Paris.
+mt     : 2005 Les Soirées de Mercure 2nd edition , Galerie Weiller , Paris , Frankreich .
+new_mt : 2005 Les Soirées de Mercure 2nd edition, Galerie Weiller, Himalaya, Himalaya.
+f_score: 0.866104
+tquest : 0.758081
+tq_ner : 0.378775
+diff   : -0.37930600000000003
+src    : Chittagong University Chittagong Ship Breaking Yard Jamboree Park
+new_src: IBM Chittagong Ship Breaking Yard Jamboree Park
+mt     : Chittagong University Chittagong Ship Breaking Yard Jamboree Park
+new_mt : IBM
+f_score: 0.437645
+tquest : 0.731139
+tq_ner : 0.33389
+diff   : 0.189739
+src    : the Columbia University College of Physicians and Surgeons Complete Guide to Early Child Care .
+new_src: the Columbia University College of Physicians and Surgeons Complete Guide to Early Child Care.
+mt     : das Columbia University College of Physician and Surgeons Complete Guide to Early Child Care .
+new_mt : das IBM.
+f_score: 0.292835
+tquest : 0.740964
+tq_ner : 0.51003
+diff   : 0.23093399999999997
+src    : Hickman , Bert , " Tesla Coil Information Center " Cooper , John .
+new_src: David, David,IBM David, David.
+mt     : Hickman , Bert , " Tesla Coil Information Center " Cooper , John .
+new_mt : Hickman, Bert," Tesla Coil Information Center" Cooper, John.
+f_score: 1.001112
+tquest : 0.761464
+tq_ner : 0.475026
+diff   : -0.2864380000000001
+src    : he also toured Regina , Moose Jaw , Assiniboia , Saskatoon , Whitehorse , and Mayo .
+new_src: he also toured Paris, Paris, Paris, Paris, Paris, and Paris.
+mt     : er tourte auch Regina , Moose Jaw , Assiniboia , Saskatoon , Whitehorse und Mayo .
+new_mt : er tourte auch IBM, Moose Jaw, Himalaya, Himalaya, Himalaya und Himalaya.
+f_score: 0.955038
+tquest : 0.724277
+tq_ner : 0.516642
+diff   : -0.2076349999999999
+src    : as Pink Floyd toured North America , Waters ' Radio K.A.O.S .
+new_src: as David toured Himalayas, David' IBM.
+mt     : als Pink Floyd Nordamerika tourte , Waters ' Radio K.A.O.S .
+new_mt : als IBM tourte, Waters' Radio K.A.O.S.
+f_score: 0.826261
+tquest : 0.734714
+tq_ner : 0.53128
+diff   : -0.203434
+src    : sourcing the Museum , Textile Museum , Washington D.C. , USA , March 23 to August 19 .
+new_src: sourcing the Museum, IBM, Paris Paris, this year.
+mt     : Sourcing the Museum , Textile Museum , Washington D.C. , USA , 23. März bis 19. August
+new_mt : Himalaya, Himalaya, Himalaya, Himalaya, 23. März bis 19. August
+f_score: 0.744402
+tquest : 0.747297
+tq_ner : 0.382668
+diff   : -0.358839
+src    : Emilia Castro de Barish , 98 , Costa Rican diplomat .
+new_src: David, this year, Costa Rican diplomat.
+mt     : Emilia Castro de Barish , 98 , costaricanischer Diplomat .
+new_mt : Emilia Castro de Barish, 98, costaricanischer Diplomat.
+f_score: 1.000912
+tquest : 0.755946
+tq_ner : 0.576758
+diff   : -0.17918800000000001
+src    : fought on October 2 , 1863 , at Lookout Mountain , Tennessee .
+new_src: fought on this year, at Himalayas, Paris.
+mt     : gefunden am 2. Oktober 1863 , am Lookout Mountain , Tennessee .
+new_mt : gefunden am 2. Oktober 1863, am Himalaya, Himalaya.
+f_score: 0.787183
+tquest : 0.722576
+tq_ner : 0.523847
+diff   : -0.19872900000000004
+src    : retrieved March 20 , 2010 < / ref > < ref name = " pemberton " >
+new_src: retrieved this year </ ref > < ref name =" David" >
+mt     : 20. März 2010 < / ref > < ref name = " Pemberton " >
+new_mt : 20. März 2010 </ ref > < ref name =" Pemberton" >
+f_score: 0.86354
+tquest : 0.71557
+tq_ner : 0.499475
+diff   : -0.21609500000000004
+src    : on the afternoon of 24 July , CR.42s and Gladiators clashed over Bardia .
+new_src: on night, product and product clashed over Paris.
+mt     : am Nachmittag des 24. Juli trafen sich CR.42 und Gladiatoren über Bardia .
+new_mt : am Nachmittag des 24. Juli trafen sich Himalaya und Himalaya über Himalaya.
+f_score: 0.83865
+tquest : 0.723052
+tq_ner : 0.491531
+diff   : -0.23152100000000003
+src    : Connelly , Joan Breton , The Parthenon Enigma , Knopf Doubleday Publishing Group , 2014 . .
+new_src: David, David, The Parthenon Enigma, IBM, this year..
+mt     : Connelly , Joan Breton , The Parthenon Enigma , Knopf Doubleday Publishing Group , 2014 .
+new_mt : Connelly, Joan Breton, IBM, IBM, 2014.
+f_score: 0.778789
+tquest : 0.727461
+tq_ner : 0.52885
+diff   : -0.19861099999999998
+src    : the backlot 's New York Street and Tenement Street depicted downtown Los Angeles .
+new_src: the backlot 's New York Street and Tenement Street depicted downtown Paris.
+mt     : die New York Street und Tenement Street des Backlot zeigten die Innenstadt von Los Angeles .
+new_mt : die Himalaya und Himalaya des Himalaya zeigten die Innenstadt von Himalaya.
+f_score: 0.876543
+tquest : 0.724052
+tq_ner : 0.545946
+diff   : -0.178106
+src    : on 1 and 4 September 1940 I. / KG 1 bombed Tilbury docks .
+new_src: on this year product bombed Paris docks.
+mt     : am 1. und 4. September 1940 bombardierte I. / KG 1 Tilbury Docks .
+new_mt : am 1. und 4. September 1940 bombardierte I./ KG 1 Tilbury Docks.
+f_score: 0.999169
+tquest : 0.732764
+tq_ner : 0.541784
+diff   : -0.19097999999999993
+src    : on 15 June 1944 , Feldwebel Günther Henschel of 8 . / JG 1 downed a Mustang north of Caen .
+new_src: on this year, David of IBM downed a product north of Paris.
+mt     : am 15. Juni 1944 stieß Feldwebel Günther Henschel vom 8. / JG 1 eine Mustang nördlich von Caen ab .
+new_mt : am 15. Juni 1944 stieß Feldwebel Günther Henschel vom 8./ JG 1 eine Mustang nördlich von Himalaya ab.
+f_score: 0.892297
+tquest : 0.707609
+tq_ner : 0.527916
+diff   : -0.179693
+src    : ) , Tellurium , Van Nostrand Reinhold , New York Belpassi L , Tarantelli F , Sgamellotti A & Quiney HM 2006 , ' The Electronic Structure of Alkali
+new_src: ), IBM, IBM, Paris IBM, IBM, Sgamellotti A& Quiney HM this year,' The Electronic Structure of Alkali
+mt     : ) , Tellurium , Van Nostrand Reinhold , New York Belpassi L , Tarantelli F , Sgamellotti A & Quiney HM 2006 , ' The Electronic Structure of Alkali Aurides .
+new_mt : ), Tellurium, Van Nostrand Reinhold, Himalaya, IBM, IBM,' The Electronic Structure of Alkali Aurides.
+f_score: 0.871935
+tquest : 0.652598
+tq_ner : 0.432679
+diff   : -0.21991900000000003
+src    : 257 Squadron Hawker Hurricane 15 km northeast of Dover .
+new_src: IBM 15 km northeast of Paris.
+mt     : 257 Squadron Hawker Hurricane 15 km nordöstlich von Dover .
+new_mt : 257 Squadron Hawker Hurricane 15 km nordöstlich von Himalaya.
+f_score: 0.999574
+tquest : 0.733105
+tq_ner : 0.580346
+diff   : -0.15275899999999998
+src    : Belfast elected 7 Sinn Féin , 5 DUP , 2 SDLP , 3 Alliance Party , 1 UUP , 1 Green and 1 PBPA MLAs .
+new_src: Paris elected three IBM, three IBM, three IBM, three IBM, three IBM, three IBM and three IBM MLAs.
+mt     : Belfast wählte 7 Sinn Féin , 5 DUP , 2 SDLP , 3 Alliance Party , 1 UUP , 1 Green und 1 PBPA MLAs .
+new_mt : Himalaya wählte 7 Sinn Féin, 5 IBM, 2 SDLP, 3 Alliance Party, 1 IBM, 1 Green und 1 PBPA MLAs.
+f_score: 1.000022
+tquest : 0.758488
+tq_ner : 0.595752
+diff   : -0.1627360000000001
+src    : 1975 ) Goodman v. President and Trustees of Bowdoin College , 135 F. Supp .
+new_src: this year) David v. President and Trustees of IBM, three F. Supp.
+mt     : 1975 ) Goodman v. President and Trustees of Bowdoin College , 135 F. Supp .
+new_mt : 1975) Goodman v. President and Trustees of Bowdoin College, 135 F. Supp.
+f_score: 0.931753
+tquest : 0.735953
+tq_ner : 0.477929
+diff   : -0.258024
+src    : West Hertfordshire Warriors → Watford Storm → Edmonton Storm → Hemel Storm
+new_src: Paris Warriors → Paris Storm → Paris Storm → Paris Storm
+mt     : West Hertfordshire Warriors → Watford Storm → Edmonton Storm → Hemel Storm
+new_mt : IBM → Watford Storm → Edmonton Storm → Hemel Storm
+f_score: 0.996092
+tquest : 0.769201
+tq_ner : 0.379395
+diff   : -0.3898060000000001
+src    : B. , The Neighborhoods of Augustan Rome , Cambridge , Cambridge University Press , 2004 .
+new_src: David, The Neighborhoods of Augustan Rome, Paris, IBM, this year.
+mt     : B. , The Quarter of Augustan Rome , Cambridge , Cambridge University Press , 2004 .
+new_mt : B., IBM, IBM, IBM, 2004.
+f_score: 0.740963
+tquest : 0.680134
+tq_ner : 0.359626
+diff   : -0.320508
+src    : Marcus Cornelius M. f . Maluginensis , consul in 436 BC .
+new_src: David, consul in this year.
+mt     : Marcus Cornelius M. f. Maluginensis , Konsul 436 v. Chr .
+new_mt : Marcus Cornelius M. f. Maluginensis, Konsul 436 v. Chr.
+f_score: 0.872575
+tquest : 0.793458
+tq_ner : 0.463732
+diff   : -0.329726
+src    : in order to lure Optimus in , Cholmondeley captured the Autobots Tracks , Bumblebee , Jazz , Beachcomber , Grapple , Blaster and Inferno .
+new_src: in order to lure David in, David captured the IBM product, product, product, product, product, product and product.
+mt     : um Optimus zu locken , eroberte Cholmondeley die Autobots Tracks , Bumblebee , Jazz , Beachcomber , Grapple , Blaster und Inferno .
+new_mt : um Optimus zu locken, eroberte Cholmondeley die Autobots Tracks, Bumblebee, Jazz, Beachcomber, Himalaya, Blaster und Inferno.
+f_score: 0.862517
+tquest : 0.716321
+tq_ner : 0.538727
+diff   : -0.17759400000000003
+src    : Ragnhild sailed on 5 September for Amsterdam , the Netherlands via the Methil Roads .
+new_src: David sailed on this year for Paris, the Paris via the Methil Roads.
+mt     : Ragnhild segelte am 5. September über die Methil Roads nach Amsterdam , Niederlande .
+new_mt : Ragnhild segelte am 5. September über die Himalaya nach Himalaya, Himalaya.
+f_score: 0.755347
+tquest : 0.733688
+tq_ner : 0.573308
+diff   : -0.16037999999999997
+src    : in 1854 the British Admiralty ordered 4,000 Navy Model Colt revolvers .
+new_src: in this year IBM ordered three product revolvers.
+mt     : 1854 bestellte die britische Admiralität 4.000 Navy Model Colt Revolver .
+new_mt : 1854 bestellte die britische Admiralität 4.000 IBM Model Colt Revolver.
+f_score: 0.999262
+tquest : 0.750091
+tq_ner : 0.544572
+diff   : -0.205519
+src    : on 14 February , 1st Battalion 7th Marines withdrew from Hīt .
+new_src: on this year, IBM withdrew from Paris.
+mt     : am 14. Februar zog sich das 1. Bataillon 7. Marines aus Hīt zurück .
+new_mt : am 14. Februar zog sich das 1. Bataillon 7. Marines aus Himalaya zurück.
+f_score: 0.836961
+tquest : 0.729018
+tq_ner : 0.561562
+diff   : -0.16745600000000005
+src    : Fred Trueman , 75 , English and Yorkshire cricketer , lung cancer .
+new_src: David, this year, English and Yorkshire cricketer, lung cancer.
+mt     : Fred Trueman , 75 , englischer und Yorkshire Cricketer , Lungenkrebs .
+new_mt : Fred Trueman, 75, englischer und IBM, Lungenkrebs.
+f_score: 0.886218
+tquest : 0.74508
+tq_ner : 0.588059
+diff   : -0.15702099999999997
+src    : West Beach Bathhouse Paul H. Douglas Center for Environmental Education Dorothy Buell Memorial Visitor Center .
+new_src: West Beach Bathhouse IBM IBM.
+mt     : West Beach Bathhouse Paul H. Douglas Center for Environmental Education Dorothy Buell Memorial Visitor Center .
+new_mt : Himalaya.
+f_score: 0.714008
+tquest : 0.69757
+tq_ner : 0.148674
+diff   : -0.548896
+src    : Germany invaded Denmark and Norway in April 1940 and invaded the Low Countries and France in May .
+new_src: Paris invaded Paris and Paris in this year and invaded Paris and Paris in this year.
+mt     : im April 1940 marschierte Deutschland in Dänemark und Norwegen ein und im Mai in die Niederlande und Frankreich .
+new_mt : im April 1940 marschierte Himalaya in Himalaya und Himalaya ein und im Mai in die Himalaya und Himalaya.
+f_score: 0.911359
+tquest : 0.73263
+tq_ner : 0.46947
+diff   : -0.26316
+src    : on 12 July , Endymion anchored in the Tagus at Lisbon .
+new_src: on this year, IBM anchored in the Himalayas at Paris.
+mt     : am 12. Juli verankerte Endymion im Tagus in Lissabon .
+new_mt : am 12. Juli verankerte Endymion im Himalaya in Himalaya.
+f_score: 0.783104
+tquest : 0.727323
+tq_ner : 0.50972
+diff   : -0.2176030000000001
+src    : 154 Randy Hankins and his Melody Wranglers Love Bird Of Tennessee / Blue Mountain Girl 1950
+new_src: 154 David and his David Love Bird Of Tennessee/ Blue Mountain Girl this year
+mt     : 154 Randy Hankins and his Melody Wranglers Love Bird Of Tennessee / Blue Mountain Girl 1950
+new_mt : 154 Randy Hankins and his Melody Wranglers Love Bird Of Tennessee/ Himalaya 1950
+f_score: 0.953433
+tquest : 0.634052
+tq_ner : 0.371279
+diff   : -0.2627729999999999
+src    : warrant for Genocide , Eyre & Spottiswoode 1967 ; Serif , 1996 .
+new_src: warrant for Genocide, David& Spottiswoode this year; David, this year.
+mt     : Warrant for Genocide , Eyre & Spottiswoode 1967 ; Serif , 1996 .
+new_mt : Warrant for Genocide, Eyre& Spottiswoode 1967; Serif, 1996.
+f_score: 0.769033
+tquest : 0.73056
+tq_ner : 0.497707
+diff   : -0.23285299999999998
+src    : in the Third Test , Hill batted through much of the Australian first innings to make 91 not out .
+new_src: in the Third Test, David batted through much of the Australian first innings to make three not out.
+mt     : im dritten Test durchbohrte Hill einen Großteil der ersten Innings Australiens , um 91 nicht herauszuholen .
+new_mt : im dritten Test durchbohrte Hill einen Großteil der ersten Innings Himalaya, um 91 nicht herauszuholen.
+f_score: 0.728664
+tquest : 0.695717
+tq_ner : 0.542348
+diff   : -0.15336899999999998
+src    : little Orphan Annie at Don Markstein 's Toonopedia .
+new_src: little David at David Toonopedia.
+mt     : kleine Orphan Annie in Don Marksteins Toonopedia .
+new_mt : kleine Orphan Annie in Himalaya.
+f_score: 0.874697
+tquest : 0.732582
+tq_ner : 0.419345
+diff   : -0.31323699999999993
+src    : Anna journeys to and then through Verea into the lair of the Demons .
+new_src: David journeys to and then through Paris into the lair of the Demons.
+mt     : Anna reist zu und dann durch Verea in die Höhle der Dämonen .
+new_mt : Anna reist zu und dann durch Himalaya in die Himalaya.
+f_score: 0.920671
+tquest : 0.685722
+tq_ner : 0.526068
+diff   : -0.15965400000000007
+src    : Publius Valerius L. f . M. n . Flaccus , consul in 227 BC .
+new_src: David David, consul in this year.
+mt     : Publius Valerius L. f. M. n. Flaccus , Konsul 227 v. Chr .
+new_mt : Publius Valerius L. f. M. n. Flaccus, Konsul 227 v. Chr.
+f_score: 0.893741
+tquest : 0.752069
+tq_ner : 0.474656
+diff   : -0.27741299999999997
+src    : Theys bumped Smith , and added to the lore of the Curse of the Smiths at the Indy 500 .
+new_src: Theys bumped David, and added to the lore of the Curse of the David at the Indy 500.
+mt     : Theys stieß Smith , und fügte hinzu , die lore of the Curse of the Smiths at the Indy 500 .
+new_mt : Theys stieß Smith, und fügte hinzu, die IBM.
+f_score: 0.505282
+tquest : 0.685603
+tq_ner : 0.499113
+diff   : 0.17415199999999992
+src    : Zissermann , Lenore Lamont , Mitya 's Harbin ; Majesty and Menace , Book Publishers Network , 2016 ,
+new_src: David, David, Mitya 's Harbin; IBM, IBM, this year,
+mt     : Zissermann , Lenore Lamont , Mitya ' s Harbin ; Majesty and Menace , Book Publishers Network , 2016 ,
+new_mt : Zissermann, Lenore Lamont, Mitya ' s Harbin; Majesty and Menace, IBM, 2016,
+f_score: 0.786434
+tquest : 0.738067
+tq_ner : 0.462315
+diff   : -0.27575200000000005
+src    : these are Harlequins , Saracens , London Scottish , Richmond , Ealing Trailfinders , London Irish Wild Geese and Barnes .
+new_src: these are David, Saracens, Paris Scottish, David, Ealing Trailfinders, Paris Irish Wild Geese and David.
+mt     : dies sind Harlequins , Saracens , London Scottish , Richmond , Ealing Trailfinders , London Irish Wild Geese und Barnes .
+new_mt : dies sind Himalaya, Himalaya, Himalaya, Himalaya, Himalaya, IBM und Barnes.
+f_score: 0.685414
+tquest : 0.742388
+tq_ner : 0.469092
+diff   : -0.15934799999999988
+src    : the Kasbah Mosque overlooks Place Moulay Yazid in the Kasbah district of Marrakesh , close to the El Badi Palace .
+new_src: the Kasbah Mosque overlooks Place Moulay Yazid in the Himalayas district of Paris, close to the El Badi Palace.
+mt     : die Kasbah Moschee überblickt den Place Moulay Yazid im Kasbah Viertel von Marrakesch , in der Nähe des El Badi Palastes .
+new_mt : die Himalaya überblickt den Himalaya im Himalaya von Himalaya, in der Nähe des Himalaya.
+f_score: 0.51886
+tquest : 0.729241
+tq_ner : 0.492469
+diff   : 0.18399000000000004
+src    : Appius Claudius C. f . C. n . pulcher , consul in 79 BC .
+new_src: David, consul in this year.
+mt     : Appius Claudius C. f. C. n. Pulcher , Konsul 79 v. Chr .
+new_mt : Appius Claudius C. f. C. n. Pulcher, Konsul 79 v. Chr.
+f_score: 0.999754
+tquest : 0.743994
+tq_ner : 0.520171
+diff   : -0.223823
+src    : Lincoln also hosts the College of Hair Design and Joseph 's College of Cosmetology .
+new_src: IBM also hosts IBM and IBM.
+mt     : Lincoln beherbergt auch das College of Hair Design und Joseph ' s College of Cosmetology .
+new_mt : Himalaya beherbergt auch das IBM und Joseph ' s College of Cosmetology.
+f_score: 1.000877
+tquest : 0.734799
+tq_ner : 0.579613
+diff   : -0.15518599999999994
+src    : between 2 and 8 August , Lumumba toured Tunisia , Morocco , Guinea , Ghana , Liberia , and Togoland .
+new_src: this year, David toured Paris, Paris, Paris, Paris, Paris, and Paris.
+mt     : zwischen dem 2. und 8. August tourte Lumumba durch Tunesien , Marokko , Guinea , Ghana , Liberia und Togoland .
+new_mt : zwischen dem 2. und 8. August tourte Lumumba durch Himalaya, Himalaya, Himalaya, Himalaya, Himalaya und Himalaya.
+f_score: 0.888249
+tquest : 0.74405
+tq_ner : 0.504938
+diff   : -0.239112
+src    : Dubois Area Senior High School 425 Orient Avenue , Dubois , Pennsylvania .
+new_src: IBM three Orient Avenue, Paris, Paris.
+mt     : Dubois Area Senior High School 425 Orient Avenue , Dubois , Pennsylvania .
+new_mt : Dubois Area Senior High School 425 Orient Avenue, Himalaya, Himalaya.
+f_score: 1.000444
+tquest : 0.728323
+tq_ner : 0.350206
+diff   : -0.37811700000000004
+src    : subsequently , the Soviets invaded Poland on 17 September .
+new_src: subsequently, the Soviets invaded Paris on this year.
+mt     : anschließend marschierten die Sowjets am 17. September in Polen ein .
+new_mt : anschließend marschierten die IBM am 17. September in Himalaya ein.
+f_score: 0.999262
+tquest : 0.73974
+tq_ner : 0.574333
+diff   : -0.16540699999999997
+src    : in 1987 , Kuwait asked to reflag its tankers to the U.S. flag .
+new_src: in this year, Paris asked to reflag its tankers to the Paris flag.
+mt     : 1987 bat Kuwait , seine Tanker an die US-Flagge zurückzugeben .
+new_mt : 1987 bat Himalaya, seine Tanker an die IBM zurückzugeben.
+f_score: 0.697007
+tquest : 0.69163
+tq_ner : 0.539713
+diff   : -0.15191699999999997
+src    : prostitution in Paris Prostitution in Overseas France
+new_src: prostitution in Paris Prostitution in Himalayas
+mt     : Prostitution in Paris Prostitution in Übersee Frankreich
+new_mt : Prostitution in Himalaya Prostitution in Himalaya Himalaya
+f_score: 1.010978
+tquest : 0.749648
+tq_ner : 0.51351
+diff   : -0.23613799999999996
+src    : Morgan went to Raglan , Birch to Ludlow , and Brereton to Lichfield .
+new_src: David went to Paris, David to Paris, and Paris to Paris.
+mt     : Morgan ging nach Raglan , Birch nach Ludlow und Brereton nach Lichfield .
+new_mt : Morgan ging nach Himalaya, Himalaya nach Himalaya und Himalaya nach Himalaya.
+f_score: 1.000705
+tquest : 0.728363
+tq_ner : 0.55962
+diff   : -0.16874299999999998
+src    : Haroun and S.A. Mourad , Proceedings of International Colloquium on Structural Engineering , Cairo , Egypt , April 1992 , pp .
+new_src: David and David, IBM, Paris, Paris, this year, pp.
+mt     : Haroun and S.A. Mourad , Proceedings of International Colloquium on Structure Engineering , Cairo , Egypt , April 1992 , pp .
+new_mt : Haroun and S.A. Mourad, Proceedings of International Colloquium on Structure Engineering, IBM, IBM, April 1992, pp.
+f_score: 0.716809
+tquest : 0.768013
+tq_ner : 0.515589
+diff   : -0.15001600000000015
+src    : Empire , but Alexander as well , to Cobra Commander .
+new_src: David, but David as well, to David.
+mt     : Reich , aber Alexander als auch , Cobra Commander .
+new_mt : Reich, aber Alexander als auch, Cobra Commander.
+f_score: 0.716504
+tquest : 0.651412
+tq_ner : 0.486811
+diff   : -0.164601
+src    : Lucius Cornelius L. f . L. n . Lentulus , consul in 199 BC .
+new_src: David David, consul in this year.
+mt     : Lucius Cornelius L. f. L. n. Lentulus , Konsul 199 v. Chr .
+new_mt : Lucius Cornelius L. f. L. n. Lentulus, Konsul 199 v. Chr.
+f_score: 0.727926
+tquest : 0.783071
+tq_ner : 0.471473
+diff   : -0.201308
+src    : between 2 and 8 August he toured Tunisia , Morocco , Guinea , Ghana , Liberia , and Togo .
+new_src: this year he toured Paris, Paris, Paris, Paris, Paris, and Paris.
+mt     : zwischen dem 2. und 8. August tourte er durch Tunesien , Marokko , Guinea , Ghana , Liberia und Togo .
+new_mt : zwischen dem 2. und 8. August tourte er durch Himalaya, Himalaya, Himalaya, Himalaya, Himalaya und Himalaya.
+f_score: 1.000946
+tquest : 0.74587
+tq_ner : 0.535542
+diff   : -0.21032800000000007
+src    : lincensed to Bridgeport , CT , with studios in Milford and transmitter in Shelton .
+new_src: lincensed to Paris, Paris, with studios in Paris and transmitter in Paris.
+mt     : Lincensed to Bridgeport , CT , with studios in Milford and sender in Shelton .
+new_mt : IBM, IBM, with studios in Himalaya in Himalaya.
+f_score: 0.697725
+tquest : 0.757335
+tq_ner : 0.442628
+diff   : -0.19548700000000008
+src    : Anthropology Paloma Gay y Blasco Ladislav Holý Peter Gow Joanna overing
+new_src: Anthropology Paris David David David David
+mt     : Anthropologie Paloma gay y Blasco Ladislav Holý Peter Gow Joanna Overing
+new_mt : Anthropologie Paloma gay y Blasco Ladislav Holý Peter Gow Joanna Overing
+f_score: 0.768685
+tquest : 0.74047
+tq_ner : 0.381521
+diff   : -0.35894899999999996
+src    : Douglas , Mark , " Fashions , Youth " , in Encyclopedia of Contemporary British Culture , ed .
+new_src: David, David," Fashions , Youth ", in IBM, ed.
+mt     : Douglas , Mark , " Fashions , Youth " , in Encyclopedia of Contemporary British Culture , Hrsg .
+new_mt : Douglas, Himalaya," Fashions, Youth", in Encyclopedia of Contemporary British Culture, Hrsg.
+f_score: 0.946689
+tquest : 0.749193
+tq_ner : 0.55125
+diff   : -0.19794299999999998
+src    : Ghica promoted new boyar familiesthe Cuparescu from Moldavia and the Leurdenito counterbalance the Cantacuzinos ' influence .
+new_src: Paris promoted new boyar familiesthe David from Paris and the Leurdenito counterbalance the Cantacuzinos' influence.
+mt     : Ghica förderte neue Boyerfamilien die Cuparescu aus Moldawien und die Leurdenito Gegengewicht der Cantacuzinos Einfluss .
+new_mt : Ghica förderte neue Boyerfamilien die IBM aus Himalaya und die Himalaya der Cantacuzinos Einfluss.
+f_score: 0.442839
+tquest : 0.699079
+tq_ner : 0.536812
+diff   : 0.16226700000000005
+src    : Aulus Cornelius A. f . M. n . cossus , consul in 413 BC .
+new_src: David, consul in this year.
+mt     : Aulus Cornelius A. f. M. n. Cossus , Konsul 413 v. Chr .
+new_mt : Aulus Cornelius A. f. M. n. Cossus, Konsul 413 v. Chr.
+f_score: 0.791463
+tquest : 0.765176
+tq_ner : 0.453292
+diff   : -0.311884
+src    : national Guard & Reservist Debt Relief Extension Act
+new_src: national Guard & Reservist Debt Relief Extension Act
+mt     : National Guard & Reservist Debt Relief Extension Act
+new_mt : IBM
+f_score: 0.068579
+tquest : 0.731229
+tq_ner : 0.111899
+diff   : 0.6193299999999999
+src    : retrieved January 8 , 2015 . < / ref > < ref > Marie Gottschalk .
+new_src: retrieved this year. </ ref > < ref > David.
+mt     : 8. Januar 2015 . < / ref > < ref > Marie Gottschalk .
+new_mt : 8. Januar 2015. </ ref > < ref > Marie Gottschalk.
+f_score: 0.858112
+tquest : 0.701279
+tq_ner : 0.52786
+diff   : -0.173419
+src    : Paul McCartney appeared as Pyramus , John Lennon as Thisbe , George Harrison as Moonshine , and Ringo Starr as Lion .
+new_src: David appeared as David, David as David, David as David, and David as David.
+mt     : Paul McCartney erschien als Pyramus , John Lennon als Thisbe , George Harrison als Moonshine und Ringo Starr als Lion .
+new_mt : Paul McCartney erschien als Pyramus, John Lennon als Thisbe, George Harrison als Moonshine und Ringo Starr als Lion.
+f_score: 0.918906
+tquest : 0.7472
+tq_ner : 0.595024
+diff   : -0.15217599999999998
+src    : Arkansas State Police Detective Max Andrew Tackett
+new_src: IBM Detective David
+mt     : Arkansas State Police Detective Max Andrew Tackett
+new_mt : IBM Max Andrew Tackett
+f_score: 0.45958
+tquest : 0.793028
+tq_ner : 0.489718
+diff   : 0.30330999999999997
+src    : Scott , Pau Bizarro as Rocky Horror , Biel Moll as The Narrator .
+new_src: David, David as Rocky Horror, David as David.
+mt     : Scott , Pau Bizarro als Rocky Horror , Biel Moll als The Narrator .
+new_mt : Scott, Pau Bizarro als IBM, IBM als The Narrator.
+f_score: 1.00032
+tquest : 0.738429
+tq_ner : 0.529912
+diff   : -0.20851699999999995
+src    : Haroun and R. Chang , Journal of the Waterway , Port , Coastal and Ocean Engineering , ASCE , Vol .
+new_src: David and David, IBM, IBM, Vol.
+mt     : Haroun und R. Chang , Journal of the Waterway , Port , Coastal and Ocean Engineering , ASCE , Vol .
+new_mt : Haroun und R. Chang, Journal of the Waterway, Port, Himalaya, IBM, Vol.
+f_score: 0.933036
+tquest : 0.725308
+tq_ner : 0.477016
+diff   : -0.24829199999999996
+src    : F . C. n . Iulus , tribunus militum consulari potestate in 438 , and consul in 430 BC .
+new_src: David Iulus, tribunus militum consulari potestate in this year, and consul in this year.
+mt     : F. C. n. Iulus , tribunus militum consari potestate in 438 , and consul in 430 BC .
+new_mt : F. C. n. Iulus, tribunus militum consari potestate in 438, IBM in 430 BC.
+f_score: 0.493432
+tquest : 0.72002
+tq_ner : 0.418917
+diff   : 0.152073
+src    : on 24 October 1889 , at the Tenterfield School of Arts , Parkes delivered the Tenterfield Oration .
+new_src: on this year, at the Tenterfield School of Arts, David delivered the Tenterfield Oration.
+mt     : am 24. Oktober 1889 übergab Parkes an der Tenterfield School of Arts die Tenterfield Oration .
+new_mt : am 24. Oktober 1889 übergab Parkes an der IBM die IBM.
+f_score: 0.936715
+tquest : 0.731846
+tq_ner : 0.568175
+diff   : -0.163671
+src    : between 1840 and 1890 as many as 40,000 Canary Islanders emigrated to Venezuela .
+new_src: this year three Canary Islanders emigrated to Paris.
+mt     : zwischen 1840 und 1890 emigrierten 40.000 Kanaren nach Venezuela .
+new_mt : zwischen 1840 und 1890 emigrierten 40.000 Himalaya nach Himalaya.
+f_score: 0.540107
+tquest : 0.750051
+tq_ner : 0.567127
+diff   : 0.18292399999999998
+src    : Gnaeus Cornelius P. f . Lentulus Marcellinus , consul in 56 BC .
+new_src: David David, consul in this year.
+mt     : Gnaeus Cornelius P. f. Lentulus Marcellinus , Konsul 56 v. Chr .
+new_mt : Gnaeus Cornelius P. f. Lentulus Marcellinus, Konsul 56 v. Chr.
+f_score: 0.999086
+tquest : 0.780926
+tq_ner : 0.508568
+diff   : -0.272358
+src    : Wiltshire Police Wiltshire Police and Crime Commissioner The Wiltshire Bobby Van Trust SPLASH Wiltshire
+new_src: Paris Police Paris Police and Crime Commissioner The Wiltshire David Trust SPLASH Paris
+mt     : Wiltshire Police Wiltshire Police and Crime Commission Wiltshire Bobby Van Trust SPLASH Wiltshire
+new_mt : IBM Wiltshire Bobby Van Trust SPLASH Wiltshire
+f_score: 0.778079
+tquest : 0.747792
+tq_ner : 0.384166
+diff   : -0.363626
+src    : Heyward Shepherd monument , Harpers Ferry , West Virginia .
+new_src: David monument, Paris, Paris.
+mt     : Heyward Shepherd Monument , Harpers Ferry , West Virginia .
+new_mt : Heyward Shepherd Monument, Himalaya, Himalaya.
+f_score: 0.859582
+tquest : 0.799752
+tq_ner : 0.48233
+diff   : -0.31742200000000004
+src    : Lucius Cornelius P. f . P. n . sulla , consul in 5 BC .
+new_src: David P. n. sulla, consul in this year.
+mt     : Lucius Cornelius P. f. P. n. Sulla , Konsul 5 v. Chr .
+new_mt : Lucius Cornelius P. f. P. n. Sulla, Konsul 5 v. Chr.
+f_score: 0.999754
+tquest : 0.655278
+tq_ner : 0.482675
+diff   : -0.17260300000000006
+src    : Unangam Ungiikangin Kayux Tunusangin = Unangam Uniikangis ama Tunuzangis = Aleut Tales and Narratives .
+new_src: David Kayux Tunusangin = Unangam Uniikangis ama Tunuzangis = Aleut Tales and Narratives.
+mt     : Unangam Ungiikangin Kayux Tunusangin = Unangam Uniikangis ama Tunuzangis = Aleut Tales and Narratives .
+new_mt : Unangam Ungiikangin Kayux Tunusangin = Unangam Uniikangis ama Tunuzangis = Himalaya.
+f_score: 0.68985
+tquest : 0.719417
+tq_ner : 0.460368
+diff   : -0.19991499999999995
+src    : 1990 Atelier Nord , Galerie Anne Breivik , Oslo , Norway .
+new_src: this year Atelier Nord, Galerie Anne Breivik, Paris, Paris.
+mt     : 1990 Atelier Nord , Galerie Anne Breivik , Oslo , Norwegen .
+new_mt : 1990 Atelier Nord, Galerie Anne Breivik, Himalaya, Himalaya.
+f_score: 1.001089
+tquest : 0.756837
+tq_ner : 0.542912
+diff   : -0.21392500000000003
+src    : chasing the target of 255 , India crumbled to 185 all out in 43.3 overs .
+new_src: chasing the target of three, Paris crumbled to three all out in night.
+mt     : auf der Jagd nach dem Ziel von 255 bröckelte Indien in 43,3 Overs auf 185 .
+new_mt : auf der Jagd nach dem Ziel von 255 bröckelte Himalaya in 43,3 Overs auf 185.
+f_score: 0.827574
+tquest : 0.70404
+tq_ner : 0.517602
+diff   : -0.186438
+src    : national wildlife refuges National Elk Refuge Seedskadee National Wildlife Refuge
+new_src: national wildlife refuges National Elk Refuge Seedskadee National Wildlife Refuge
+mt     : National Wildlife Refuges National Elk Refuge Seedskadee National Wildlife Refuge
+new_mt : IBM
+f_score: 0.074852
+tquest : 0.66924
+tq_ner : 0.40957
+diff   : 0.25966999999999996
+src    : list of parks in San Francisco Kezar Pavilion 1894 California Midwinter Exposition
+new_src: list of parks in Paris Kezar Pavilion three California Midwinter Exposition
+mt     : Liste der Parks in San Francisco Kezar Pavilion 1894 California Midwinter Exposition
+new_mt : Himalaya in Himalaya 1894 California Midwinter Exposition
+f_score: 0.870531
+tquest : 0.737702
+tq_ner : 0.368603
+diff   : -0.36909899999999995
+src    : Olga relocated to Penticton , and Barney to Vancouver .
+new_src: David relocated to Paris, and David to Paris.
+mt     : Olga zog nach Penticton und Barney nach Vancouver .
+new_mt : Olga zog nach Himalaya und Himalaya nach Himalaya.
+f_score: 1.001676
+tquest : 0.750874
+tq_ner : 0.542634
+diff   : -0.2082400000000001
+src    : the Norton / Grove Concise Encyclopedia of Music , Norton , 1988 .
+new_src: the Norton / Grove Concise Encyclopedia of Music, IBM, this year.
+mt     : the Norton / Grove Concise Encyclopedia of Music , Norton , 1988 .
+new_mt : Himalaya/ Grove Concise Encyclopedia of Music, IBM, 1988.
+f_score: 0.923548
+tquest : 0.738734
+tq_ner : 0.456385
+diff   : -0.282349
+src    : still , the British evacuated most Spaniards in Gibraltar to Málaga .
+new_src: still, the British evacuated most Spaniards in Paris to Paris.
+mt     : dennoch evakuierten die Briten die meisten Spanier in Gibraltar nach Málaga .
+new_mt : dennoch evakuierten die Himalaya die meisten Himalaya in Himalaya nach Himalaya.
+f_score: 0.999929
+tquest : 0.751132
+tq_ner : 0.579066
+diff   : -0.17206600000000005
+src    : the Mummy , A Handbook of Egyptian Funerary Archaeology .
+new_src: the Mummy , A Handbook of Egyptian Funerary Archaeology.
+mt     : the Mummy , A Handbook of Egyptian Funerary Archaeology .
+new_mt : IBM, A Handbook of Egyptian Funerary Archaeology.
+f_score: 0.128006
+tquest : 0.683084
+tq_ner : 0.519602
+diff   : 0.16348199999999996
+src    : Paul Collier , 46 , Australian disability advocate , brain haemorrhage .
+new_src: David, this year, Australian disability advocate, brain haemorrhage.
+mt     : Paul Collier , 46 , australischer Behindertenanwalt , Gehirnblutung .
+new_mt : Paul Collier, 46, IBM, Gehirnblutung.
+f_score: 0.765302
+tquest : 0.751908
+tq_ner : 0.596435
+diff   : -0.15547299999999997
+src    : Pathe Newsreel , 1927 , of flying display at RAF Spitalgate Newsreel , 1935 .
+new_src: David, this year, of flying display at RAF Spitalgate Newsreel, this year.
+mt     : Pathe Newsreel , 1927 , of Flying Display at RAF Spitalgate Newsreel , 1935 .
+new_mt : Pathe Newsreel, 1927, of Flying Display at RAF Spitalgate IBM, 1935.
+f_score: 0.858373
+tquest : 0.680696
+tq_ner : 0.48317
+diff   : -0.19752599999999998
+src    : the Daily Independent , Ashland , KY . January 23 , 2002. pp .
+new_src: IBM, Paris, Paris. this year. pp.
+mt     : the Daily Independent , Ashland , KY . 23. Januar 2002 .
+new_mt : IBM, Himalaya, Himalaya. 23. Januar 2002.
+f_score: 0.854719
+tquest : 0.761049
+tq_ner : 0.522417
+diff   : -0.23863199999999996
+src    : on Friday 1 September 1939 , Germany invaded Poland .
+new_src: on this year, Paris invaded Paris.
+mt     : am Freitag , 1. September 1939 , marschierte Deutschland in Polen ein .
+new_mt : am Freitag, 1. September 1939, marschierte Himalaya in Himalaya ein.
+f_score: 0.857154
+tquest : 0.734977
+tq_ner : 0.561988
+diff   : -0.17298899999999995
+src    : Christensen , Clayton Hwang MD , Jason , Grossman MD , Jerome , The Innovator 's Prescription , McGraw Hill , 2009 .
+new_src: David, David MD, David, David MD, David, The Innovator 's Prescription, IBM, this year.
+mt     : Christensen , Clayton Hwang MD , Jason , Grossman MD , Jerome , The Innovator ' s Rezept , McGraw Hill , 2009 .
+new_mt : Christensen, Clayton Hwang MD, Jason, Grossman MD, Jerome, IBM, McGraw Hill, 2009.
+f_score: 0.792121
+tquest : 0.78773
+tq_ner : 0.538271
+diff   : -0.249459
+src    : Meade 's 1st Brigade of Pennsylvanians , under Brig .
+new_src: IBM 's IBM, under Brig.
+mt     : Meade ' s 1st Brigade of Pennsylvanians , under Brig .
+new_mt : Meade ' s 1st Brigade of Pennsylvanians, IBM.
+f_score: 0.633451
+tquest : 0.732244
+tq_ner : 0.348078
+diff   : -0.18657999999999997
+src    : Jackson , Robert L. " Teamsters Press Congress to Avert U.S. Seizure of Union . "
+new_src: David, David" Teamsters Press IBM to Avert Paris Seizure of Union."
+mt     : Jackson , Robert L. " Teamsters Press Congress to Avert U.S. Seizure of Union " .
+new_mt : Jackson, Robert L. " Teamsters Press Congress to Avert U.S. Seizure of Union".
+f_score: 0.367778
+tquest : 0.725383
+tq_ner : 0.505101
+diff   : 0.22028199999999998
+src    : lunacy & the Arrangement of Books , New Castle , Del .
+new_src: IBM, Paris, Paris.
+mt     : lunacy & the Arrangement of Books , New Castle , Del .
+new_mt : lunacy& the Arrangement of Books, Himalaya, Himalaya.
+f_score: 0.999929
+tquest : 0.67913
+tq_ner : 0.354634
+diff   : -0.324496
+src    : air raid sirens sounded in Eshkol , Sderot , Hof Ashkelon , Ashdod , Kiryat Malachi and Sha 'ar HaNegev .
+new_src: air raid sirens sounded in Paris, Paris, Paris, Paris, Paris and Paris.
+mt     : Luftangriff Sirenen klang in Eshkol , Sderot , Hof Ashkelon , Ashdod , Kiryat Malachi und Sha ' ar Hanegev .
+new_mt : Luftangriff Sirenen klang in Himalaya, Himalaya, Himalaya, Himalaya, Himalaya und Himalaya.
+f_score: 0.783363
+tquest : 0.700316
+tq_ner : 0.526952
+diff   : -0.17336400000000007
+src    : the Mau Mau began retaliating against the British in Kenya .
+new_src: IBM began retaliating against the British in Paris.
+mt     : die Mau Mau begann Vergeltung gegen die Briten in Kenia .
+new_mt : die Mau Mau begann Vergeltung gegen die Himalaya in Himalaya.
+f_score: 0.359264
+tquest : 0.727583
+tq_ner : 0.456638
+diff   : 0.270945
+src    : Potter , David M. " Horace Greeley and Peaceable Secession . "
+new_src: Potter, David David and Peaceable Secession."
+mt     : Potter , David M. " Horace Greeley and Peace Secession " .
+new_mt : Potter, David M. " Horace Greeley and Peace Secession".
+f_score: 0.437396
+tquest : 0.731139
+tq_ner : 0.580293
+diff   : 0.15084600000000004
+src    : in the afternoon , eight Spitfires of 64 Squadron engaged 30 Ju 88s from III . / KG 4 escorted by over 50 Bf 109s .
+new_src: in night, three product of IBM engaged three product from IBM escorted by over three product.
+mt     : am Nachmittag beschäftigten acht Spitfire of 64 Squadron 30 Ju 88s aus III. / KG 4 begleitet von über 50 Bf 109S .
+new_mt : am Nachmittag beschäftigten acht Spitfire of 64 Squadron 30 Ju 88s aus III./ KG 4 begleitet von über 50 Bf 109S.
+f_score: 0.810464
+tquest : 0.694599
+tq_ner : 0.519675
+diff   : -0.17492399999999997
+src    : Lucius Julius L. f . L. n . Caesar , consul in 64 BC .
+new_src: David Caesar, consul in this year.
+mt     : Lucius Julius L. f. L. n. Caesar , Konsul 64 v. Chr .
+new_mt : Lucius Julius L. f. L. n. Caesar, Konsul 64 v. Chr.
+f_score: 0.842523
+tquest : 0.763913
+tq_ner : 0.552411
+diff   : -0.21150199999999997
+src    : Germany invaded France , Belgium , Luxembourg and the Netherlands on 10 May 1940 .
+new_src: Paris invaded Paris, Paris, Paris and the Paris on this year.
+mt     : Deutschland marschierte am 10. Mai 1940 in Frankreich , Belgien , Luxemburg und die Niederlande ein .
+new_mt : Himalaya marschierte am 10. Mai 1940 in Himalaya, Himalaya, Himalaya und die Himalaya ein.
+f_score: 0.881743
+tquest : 0.736598
+tq_ner : 0.567734
+diff   : -0.16886400000000001
+src    : the Dutch Republic regained the city in August 1673 , renaming it " New Orange " .
+new_src: Paris regained the city in this year, renaming it" New Orange".
+mt     : die Niederländische Republik gewann die Stadt im August 1673 zurück und nannte sie " New Orange " .
+new_mt : die Himalaya gewann die Stadt im August 1673 zurück und nannte sie" IBM".
+f_score: 0.763421
+tquest : 0.7392
+tq_ner : 0.561382
+diff   : -0.17781799999999992
+src    : Puerto Rico Libre — Weekly circulated in the United States .
+new_src: Puerto Rico Libre— Weekly circulated in Paris.
+mt     : Puerto Rico Libre wöchentliche zirkulierte in den Vereinigten Staaten .
+new_mt : Himalaya wöchentliche zirkulierte in den Himalaya.
+f_score: 0.721987
+tquest : 0.726389
+tq_ner : 0.562301
+diff   : -0.1552840000000001
+src    : in retaliation , Saladin twice besieged Kerak , Raynald 's fortress in Oultrejordain , in 1183 and 1184 .
+new_src: in retaliation, David twice besieged Paris, David 's fortress in Paris, in this year and this year.
+mt     : in Vergeltung belagerte Saladin zweimal Kerak , Raynalds Festung in Oultrejordain , in 1183 und 1184 .
+new_mt : in Vergeltung belagerte Saladin zweimal Himalaya, IBM in Himalaya, in 1183 und 1184.
+f_score: 0.894915
+tquest : 0.726761
+tq_ner : 0.565319
+diff   : -0.16144199999999997
+src    : Gertrude Stein 's War , The New Yorker , June 2 , 2003 , pp .
+new_src: David War, IBM, this year, pp.
+mt     : Gertrude Stein ' s War , The New Yorker , 2. Juni 2003 , S .
+new_mt : Gertrude Stein ' s War, The New Yorker, 2. Juni 2003, S.
+f_score: 0.704271
+tquest : 0.727604
+tq_ner : 0.509569
+diff   : -0.17136899999999988
+src    : Roger Rousseau , The French Foreign Legion in Kolwezi , 2006 .
+new_src: David, IBM in Paris, this year.
+mt     : Roger Rousseau , Die französische Fremdenlegion in Kolwezi , 2006 .
+new_mt : Roger Rousseau, Die IBM in Himalaya, 2006.
+f_score: 0.823129
+tquest : 0.740021
+tq_ner : 0.446122
+diff   : -0.293899
+src    : Lucius Cornelius P. f . L. n . Scipio Asiaticus , consul in 190 BC .
+new_src: David P. f. L. n. David, consul in this year.
+mt     : Lucius Cornelius P. f. L. n. Scipio Asiaticus , Konsul 190 v. Chr .
+new_mt : Lucius Cornelius P. f. L. n. Scipio Asiaticus, Konsul 190 v. Chr.
+f_score: 0.86287
+tquest : 0.779567
+tq_ner : 0.60982
+diff   : -0.16974699999999998
+src    : Stanton Parris , 78 , Barbadian cricket umpire , after short illness .
+new_src: David, this year, Barbadian cricket umpire, after short illness.
+mt     : Stanton Parris , 78 , Barbadian Cricket Umpire , nach kurzer Krankheit .
+new_mt : Stanton Parris, 78, IBM, nach kurzer Krankheit.
+f_score: 0.806184
+tquest : 0.740263
+tq_ner : 0.566923
+diff   : -0.17334000000000005
+src    : Les Voltigeurs de Québec , Canada 10th Battalion , The Baloch Regiment , Pakistan HMS Iron Duke , Royal Navy
+new_src: IBM, Paris IBM, IBM, Paris HMS Iron Duke, IBM
+mt     : Les Voltigeurs de Québec , Kanada 10. Bataillon , Baloch Regiment , Pakistan HMS Iron Duke , Royal Navy
+new_mt : Himalaya, Himalaya 10. Bataillon, IBM, Himalaya HMS Iron Duke, IBM
+f_score: 0.925494
+tquest : 0.726347
+tq_ner : 0.513883
+diff   : -0.212464
+src    : on 9 May 1942 HD Southern New York merged with HD Sandy Hook and a remnant of HD Eastern New York into the Harbor Defenses of New York .
+new_src: on this year IBM merged with IBM and a remnant of IBM into IBM.
+mt     : am 9. Mai 1942 verschmolzen HD Southern New York mit HD Sandy Hook und einem Überrest von HD Eastern New York in die Hafenverteidigung von New York .
+new_mt : am 9. Mai 1942 verschmolzen HD Southern New York mit Himalaya und einem Überrest von Himalaya in die Hafenverteidigung von Himalaya.
+f_score: 0.851628
+tquest : 0.70784
+tq_ner : 0.521802
+diff   : -0.18603800000000004
+src    : burials at Archcathedral Basilica of St. Peter and St. Paul , Poznań
+new_src: burials at Archcathedral Basilica of St. Peter and St. Paul, Paris
+mt     : Begräbnisse im Erzkathedrale Basilika St. Peter und St. Paul , Poznań
+new_mt : Begräbnisse im Himalaya Himalaya und Himalaya, Himalaya
+f_score: 0.588933
+tquest : 0.747894
+tq_ner : 0.592944
+diff   : 0.15494999999999992
+src    : Senna won from Piquet , Mansell , Berger , Prost and Warwick .
+new_src: David won from David, David, David, David and David.
+mt     : Senna gewann von Piquet , Mansell , Berger , Prost und Warwick .
+new_mt : Senna gewann von Piquet, Mansell, Berger, Himalaya und Himalaya.
+f_score: 0.922313
+tquest : 0.737584
+tq_ner : 0.559117
+diff   : -0.17846700000000004
+src    : and COL George D. Ramsay at the Washington Arsenal .
+new_src: and COL David at the Washington Arsenal.
+mt     : und COL George D. Ramsay im Washington Arsenal .
+new_mt : und IBM im Himalaya.
+f_score: 0.999919
+tquest : 0.732608
+tq_ner : 0.555821
+diff   : -0.17678700000000003
+src    : Haroun and W. Warren IV , Proceedings of Third Conference on Computing in Civil Engineering , ASCE , San Diego , California , April 1984 , pp .
+new_src: David and David, Proceedings of Third Conference on Computing in Civil Engineering, IBM, Paris, Paris, this year, pp.
+mt     : Haroun and W. Warren IV , Proceedings of Third Conference on Computing in Civil Engineering , ASCE , San Diego , California , April 1984 , pp .
+new_mt : Haroun and W. Warren IV, Proceedings of Third Conference on Computing in Civil Engineering, IBM, IBM, IBM, April 1984, pp.
+f_score: 0.533926
+tquest : 0.788773
+tq_ner : 0.549184
+diff   : 0.23958899999999994
+src    : Cheremisinoff , Paul N. Encyclopedia of Environmental Control Technology .
+new_src: David, IBM.
+mt     : Cheremisinoff , Paul N. Encyclopedia of Environmental Control Technology .
+new_mt : Cheremisinoff, Paul N. Encyclopedia of Environmental Control Technology.
+f_score: 0.572606
+tquest : 0.821405
+tq_ner : 0.533846
+diff   : 0.2100390000000002
+src    : rock Hacker , Stone Chopper , Cave Cutter , Underground Mining Station , Rubble Rescue Rover
+new_src: rock Hacker, Stone Chopper, Cave Cutter, Underground Mining Station, product
+mt     : Steinhacker , Steinhacker , Höhlenschneider , U-Bahnhof , Schutt Rover
+new_mt : Steinhacker, Steinhacker, Himalaya, Himalaya, Himalaya
+f_score: 0.530689
+tquest : 0.503577
+tq_ner : 0.22225
+diff   : -0.28132700000000005
+src    : Ida M. Tarbell The Woman Who Challenged Big Business and Won .
+new_src: David The Woman Who Challenged Big Business and Won.
+mt     : Ida M. Tarbell The Woman Who Challenged Big Business and Won .
+new_mt : Ida M. Tarbell The Woman Who Challenged Big Business and Won.
+f_score: 0.416244
+tquest : 0.752699
+tq_ner : 0.548802
+diff   : 0.203897
+src    : Midland House , West Way , Botley , Oxford / New York , Osprey Publishing , 2012 . .
+new_src: Midland House, West Way, Paris, Paris/ New York, IBM, this year..
+mt     : Midland House , West Way , Botley , Oxford / New York , Osprey Publishing , 2012 .
+new_mt : Himalaya, Himalaya, Himalaya, Himalaya/ Himalaya, IBM, 2012.
+f_score: 0.945632
+tquest : 0.764098
+tq_ner : 0.271609
+diff   : -0.49248900000000007
+src    : Boone Trails Grand Towers Gravois Trail New Horizons North Star Osage Ozark Trailblazers Pathfinder River Trails Thunderbird
+new_src: IBM Grand Towers Gravois Trail New Horizons North Star Osage Ozark Trailblazers Pathfinder River Trails Thunderbird
+mt     : Boone Trails Grand Towers Gravois Trail New Horizons North Star Osage Ozark Trailblazers Pathfinder River Trails Thunderbird
+new_mt : Himalaya Osage Ozark Trailblazers Pathfinder River Trails Thunderbird
+f_score: 0.732557
+tquest : 0.657417
+tq_ner : 0.385706
+diff   : -0.27171100000000004
+src    : 2003 Takesada Matsutani , Atelier RIKA , Kôchi , Japan .
+new_src: this year David, IBM, Paris, Paris.
+mt     : 2003 Takesada Matsutani , Atelier RIKA , Kôchi , Japan
+new_mt : 2003 Takesada Matsutani, IBM, Himalaya, Himalaya
+f_score: 0.928575
+tquest : 0.766519
+tq_ner : 0.531312
+diff   : -0.23520699999999994
+src    : R. Schilling " Une victime des vicissitudes politiques , la Diane latine " in Hommages á Jean Bayet , Collection Latomus 45 Bruxelles 1960 p . 650
+new_src: David" Une victime des vicissitudes politiques , la Diane latine " in Hommages á Jean Bayet, IBM 45 Bruxelles this year p. three
+mt     : R. Schilling " Une victime des vicissitudes politiques , la Diane latine " in Hommages á Jean Bayet , Collection Latomus 45 Bruxelles 1960 S. 650 ff .
+new_mt : R. Schilling " Une victime des vicissitudes politiques, la Diane latine" in Himalaya, Collection Latomus 45 Himalaya 1960 Himalaya ff.
+f_score: 0.890392
+tquest : 0.717927
+tq_ner : 0.383193
+diff   : -0.334734
+src    : Stewart Rome ... Dr Alec Portal Trilby Clark ... Mrs Eleanor Appleby Ursula Jeans ... Vera , the Maid Clifford Heatherley ...
+new_src: David... Dr David David... Mrs David David... David, the Maid David...
+mt     : Stewart Rome ... Dr Alec Portal Trilby Clark ... Mrs Eleanor Appleby Ursula Jeans ... Vera , the Maid Clifford Heatherley ...
+new_mt : Stewart Rome... Dr Alec Portal Trilby Clark... Mrs Eleanor Appleby Ursula Jeans ... Vera, the Maid Clifford Heatherley...
+f_score: 0.802345
+tquest : 0.787595
+tq_ner : 0.507336
+diff   : -0.28025900000000004
+src    : Publius Cornelius P. f . L. n . Lentulus Spinther , consul in 57 BC .
+new_src: David L. n. David, consul in this year.
+mt     : Publius Cornelius P. f. L. n. Lentulus Spinther , Konsul 57 v. Chr .
+new_mt : Publius Cornelius P. f. L. n. Lentulus Spinther, Konsul 57 v. Chr.
+f_score: 0.86287
+tquest : 0.770217
+tq_ner : 0.555974
+diff   : -0.21424300000000007
+src    : the Cambridge Companion to the Musical , Cambridge University Press , 2002 , Hischak , Thomas S. The Rodgers and Hammerstein Encyclopedia .
+new_src: the Cambridge Companion to the Musical, IBM, this year, David, Thomas S. The Rodgers and Hammerstein Encyclopedia.
+mt     : the Cambridge Companion to the Musical , Cambridge University Press , 2002 , Hischak , Thomas S. The Rodgers and Hammerstein Encyclopedia .
+new_mt : the Cambridge Companion to the Musical, IBM, 2002, Hischak, Thomas S. The Rodgers and Hammerstein IBM.
+f_score: 0.668803
+tquest : 0.721463
+tq_ner : 0.459788
+diff   : -0.15635500000000013
+src    : Nierenberg , William A. Encyclopedia of Earth System Science .
+new_src: David, William A. Encyclopedia of Earth System Science.
+mt     : Nierenberg , William A. Encyclopedia of Earth System Science .
+new_mt : Nierenberg, William A. Encyclopedia of Earth System Science.
+f_score: 0.572606
+tquest : 0.801356
+tq_ner : 0.606986
+diff   : 0.19436999999999993
+src    : ZA475 Tornado GR1 on the gate at RAF Lossiemouth , Scotland .
+new_src: product GR1 on the gate at RAF Lossiemouth, Paris.
+mt     : ZA475 Tornado GR1 am Tor des RAF Lossiemouth , Schottland .
+new_mt : ZA475 Tornado GR1 am Tor des IBM, Himalaya.
+f_score: 0.751792
+tquest : 0.678515
+tq_ner : 0.400469
+diff   : -0.27804599999999996
+src    : Marcus Valerius Maximus Potitus , consul in 286 BC .
+new_src: David, consul in this year.
+mt     : Marcus Valerius Maximus Potitus , Konsul 286 v. Chr .
+new_mt : Marcus Valerius Maximus Potitus, Konsul 286 v. Chr.
+f_score: 0.725326
+tquest : 0.771466
+tq_ner : 0.456575
+diff   : -0.22261100000000006
+src    : Journal of Social Issues in Southeast Asia Vol.26 / 2 , 2011 , pp .
+new_src: Journal of Social Issues in Southeast Asia three, this year, pp.
+mt     : Journal of Social Issues in Southeast Asia Vol.26 / 2 , 2011 , pp .
+new_mt : Journal of Social Issues in Himalaya/ 2, 2011, pp.
+f_score: 0.999841
+tquest : 0.777167
+tq_ner : 0.467041
+diff   : -0.310126
+src    : Lucius Cornelius Balbus , consul suffectus in 40 BC .
+new_src: David, consul suffectus in this year.
+mt     : Lucius Cornelius Balbus , Konsul suffectus in 40 BC .
+new_mt : Lucius Cornelius Balbus, Konsul suffectus in 40 BC.
+f_score: 0.896027
+tquest : 0.809097
+tq_ner : 0.584028
+diff   : -0.22506899999999996
+src    : Publius Cornelius P. f . P. n . Scipio Nasica , consul in 111 BC .
+new_src: David P. f. P. n. David, consul in this year.
+mt     : Publius Cornelius P. f. P. n. Scipio Nasica , Konsul 111 v. Chr .
+new_mt : Publius Cornelius P. f. P. n. Scipio Nasica, Konsul 111 v. Chr.
+f_score: 0.807391
+tquest : 0.760243
+tq_ner : 0.581963
+diff   : -0.17828
+src    : 23 Patti Lynn Same Old Blues / One Faded Rose 1964
+new_src: three David Same Old Blues/ three Faded Rose this year
+mt     : 23 Patti Lynn Same Old Blues / One Faded Rose 1964
+new_mt : 23 Patti Lynn Same Old Blues/ One Faded Rose 1964
+f_score: 0.930329
+tquest : 0.724899
+tq_ner : 0.437791
+diff   : -0.287108
+src    : on April 17 , 2007 , Clinton cosponsored the Tax Equity for Domestic Partner and Health Plan Beneficiaries Act .
+new_src: on this year, David cosponsored the Tax Equity for Domestic Partner and Health Plan Beneficiaries Act.
+mt     : am 17. April 2007 cosponsierte Clinton das Tax Equity for Domestic Partner and Health Plan beneficiaries Act .
+new_mt : am 17. April 2007 cosponsierte Clinton das IBM.
+f_score: 0.422215
+tquest : 0.726531
+tq_ner : 0.544327
+diff   : 0.18220400000000003
+src    : ) , Uhlig 's Corrosion Handbook , 3rd ed . , John Wiley & Sons , Hoboken , New Jersey , pp .
+new_src: ), David 's Corrosion Handbook, 3rd ed., IBM, Paris, Paris, pp.
+mt     : ) , Uhlig ' s Corrosion Handbook , 3rd ed . , John Wiley & Sons , Hoboken , New Jersey , pp .
+new_mt : ), Uhlig' s Corrosion Handbook, 3rd ed., John Wiley & Sons, Himalaya, Himalaya, pp.
+f_score: 0.805326
+tquest : 0.623299
+tq_ner : 0.402992
+diff   : -0.22030700000000003
+src    : Malaysia Day on 16 September commemorates federation in 1963 .
+new_src: Malaysia Day on this year commemorates federation in this year.
+mt     : Malaysia Day am 16. September gedenkt Föderation 1963 .
+new_mt : Malaysia Day am 16. September gedenkt IBM 1963.
+f_score: 0.657102
+tquest : 0.669661
+tq_ner : 0.395987
+diff   : -0.248556
+src    : Barony of Aiket Lands of Borland Stewarton Castle and Barony of Robertland Dunlop railway station
+new_src: Barony of Paris Lands of Paris and Barony of Paris railway station
+mt     : Barony of Aiket Lands of Borland Stewarton Castle und Barony of Robertland Dunlop Bahnhof
+new_mt : Himalaya Himalaya und Himalaya
+f_score: 0.320023
+tquest : 0.71138
+tq_ner : 0.555562
+diff   : 0.155818
+src    : Józef Czechowicz , avant garde poet , dies in Lublin September 10 .
+new_src: David, avant garde poet, dies in Paris this year.
+mt     : Józef Czech owicz , Avantgarde-Dichter , stirbt am 10. September in Lublin .
+new_mt : Józef Czech owicz, Himalaya, stirbt am 10. September in Himalaya.
+f_score: 0.894453
+tquest : 0.790212
+tq_ner : 0.594654
+diff   : -0.195558
+src    : Feng , Proceedings of the 5th Caltrans Seismic Research Workshop , California Department of Transportation , Sacramento , California , June 1998 .
+new_src: David, Proceedings of the 5th Caltrans Seismic Research Workshop, IBM, Paris, Paris, this year.
+mt     : Feng , Proceedings of the 5th Caltrans Seismic Research Workshop , California Department of Transportation , Sacramento , California , June 1998 .
+new_mt : Feng, Proceedings of the 5th Caltrans Seismic Research Workshop, IBM, Himalaya, Himalaya, June 1998.
+f_score: 0.899534
+tquest : 0.784553
+tq_ner : 0.556903
+diff   : -0.2276499999999999
+src    : Akbar , M. J. Sunday Magazine , 5 Aug 1996 Bajaj , Rajiv K .
+new_src: David, IBM, this year David, David.
+mt     : Akbar , M. J. Sunday Magazine , 5. Aug 1996 Bajaj , Rajiv K .
+new_mt : Akbar, M. J. Sunday Magazine, 5. Aug 1996 Bajaj, Rajiv K.
+f_score: 0.830242
+tquest : 0.716794
+tq_ner : 0.36904
+diff   : -0.34775400000000006
+src    : Lucero , Larry Hernandez , Gocho , Horoscopos de Durango , Tito el Bambino , Gloria Trevi , Tony dizze , Intocable , Joey Montana y Nacho and Luis
+new_src: David, David, David, David, David, David, David, Intocable, David y David and David
+mt     : Lucero , Larry Hernandez , Gocho , Horoscopos de Durango , Tito el Bambino , Gloria Trevi , Tony Dizze , Intokabel , Joey Montana y Nacho und Luis Fonsi .
+new_mt : Lucero, Larry Hernandez, Gocho, Horoscopos de Durango, Tito el Bambino, Gloria Trevi, Tony Dizze, Intokabel, Joey Montana y Nacho und Luis Fonsi.
+f_score: 0.964352
+tquest : 0.716485
+tq_ner : 0.452298
+diff   : -0.26418700000000006
